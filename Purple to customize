@@ -3,7 +3,7 @@
 
 /* Imports */
 @import url("https://netox005.github.io/Dubtrack/css/voteicons.css"); /* NB3 Vote Icons */
-@import url("https://netox005.github.io/Dubtrack/css/chatright.css"); /* Chat completely to the right */
+@import url("https://netox005.github.io/Dubtrack/css/chatleft.css"); /* Chat completely to the left */
 /* @import url("https://netox005.github.io/Dubtrack/css/videosmall.css"); Small video */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Smaller video */
 @import url("https://netox005.github.io/Dubtrack/css/skynet.css"); /* @netuxbot custom chat */
